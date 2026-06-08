@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aseel-portfolio/static/css/main.cb6beff2.css",
+    "main.js": "/aseel-portfolio/static/js/main.00597c73.js",
+    "static/media/aseel.png": "/aseel-portfolio/static/media/aseel.5710674225c90a18ed6b.png",
+    "index.html": "/aseel-portfolio/index.html",
+    "main.cb6beff2.css.map": "/aseel-portfolio/static/css/main.cb6beff2.css.map",
+    "main.00597c73.js.map": "/aseel-portfolio/static/js/main.00597c73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb6beff2.css",
+    "static/js/main.00597c73.js"
+  ]
+}
